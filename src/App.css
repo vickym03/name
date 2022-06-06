@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.map{
+  width: 15%;
+  border: 1px solid white;
+  float: left;
+  margin: 2vh;
+  background-color: #61dafb;
+  padding: 1vh;
+  border-radius: 20px;
+  
+}
+textarea{
+  margin-top: 5px;
+  margin-left: 10px;
+}
+input{
+  margin-left: 35px;
+}
